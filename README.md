@@ -6,7 +6,7 @@ Note that the calculation is only valid in the perturbative small-r and small-b 
 
 ## Reference 
 
-H. Mäntysaari, R. Paatelainen, A. Dumitru, 2021 arXiv:2103.11682,  Phys.Lett.B 820 (2021) 136560 
+A. Dumitru, H. Mäntysaari, R. Paatelainen, 2021 arXiv:2103.11682, Phys.Lett.B 820 (2021) 136560, which is based on arXiv:2010.11245, A. Dumitru, R. Paatelainen, Phys.Rev.D 103 (2021) 3, 034026
  
  Questions and comments to heikki.mantysaari@jyu.fi
 

@@ -1,7 +1,7 @@
 /*
  * Example code: how to use the LCPT dipole
  *
- * H. Mäntysaari, R. Paatelainen, A. Dumitru, 2021
+ * A. Dumitru, H. Mäntysaari, R. Paatelainen, 2021
  * arXiv:2103.11682 [hep-ph],  Phys.Lett.B 820 (2021) 136560 
  */
 
