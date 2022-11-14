@@ -24,8 +24,6 @@ add_subdirectory(src)
 add_subdirectory(dipole)
 
 
-set_target_properties(example PROPERTIES
-	RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
 set_target_properties(lcptdipole PROPERTIES
 	RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin
 	LIBRARY_OUTPUT_DIRECTORY ${PROJECT_BINARY_DIR}/lib
